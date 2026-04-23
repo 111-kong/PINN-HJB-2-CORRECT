@@ -1,0 +1,3 @@
+# PINN-HJB / surrogate 离线训练
+numpy>=1.24
+torch>=2.0
